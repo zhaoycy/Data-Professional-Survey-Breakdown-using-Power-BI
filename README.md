@@ -1,5 +1,6 @@
 # Data-Professional-Survey-Breakdown-using-Power-BI
 This project aimed to clean and standardise the survey data to ensure accurate analysis and representation. The goal was to produce a comprehensive dashboard with insights into the data professional community's demographic and salary trends.
+
 **Power BI Report**:[Data Professional Survey Breakdown.png](https://github.com/zhaoycy/Data-Professional-Survey-Breakdown-using-Power-BI/blob/main/Data%20Professional%20Survey%20Breakdown.png)
 
 **Goal**: To build an interactive report that provides an in-depth analysis of survey data collected from a data professional survey conducted by Alex the Analyst, visualising key metrics and various breakdowns.
